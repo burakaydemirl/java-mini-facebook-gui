@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="AddVideo" project="Facebook GUI" file="/Facebook GUI/src/AddVideo.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="113" x="226" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="VideoPosts" project="Facebook GUI" file="/Facebook GUI/src/VideoPosts.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="456" x="1175" y="1704"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="ProfilePage" project="Facebook GUI" file="/Facebook GUI/src/ProfilePage.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="174" x="902" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="PostInterface" project="Facebook GUI" 
+    file="/Facebook GUI/src/PostInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="120" x="1511" y="1511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="NewUser" project="Facebook GUI" file="/Facebook GUI/src/NewUser.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="148" x="379" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Location" project="Facebook GUI" file="/Facebook GUI/src/Location.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="142" x="567" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="UserCollection" project="Facebook GUI" 
+    file="/Facebook GUI/src/UserCollection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="363" x="1749" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Main" project="Facebook GUI" file="/Facebook GUI/src/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="749" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="TextPosts" project="Facebook GUI" file="/Facebook GUI/src/TextPosts.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="382" x="1671" y="1511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="User" project="Facebook GUI" file="/Facebook GUI/src/User.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="477" width="254" x="1749" y="405"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="TagUser" project="Facebook GUI" file="/Facebook GUI/src/TagUser.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="113" x="1116" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="AddImage" project="Facebook GUI" file="/Facebook GUI/src/AddImage.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="113" x="1269" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="ImagePosts" project="Facebook GUI" file="/Facebook GUI/src/ImagePosts.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="441" x="1671" y="1704"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Post" project="Facebook GUI" file="/Facebook GUI/src/Post.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="231" x="1671" y="922"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="AddText" project="Facebook GUI" file="/Facebook GUI/src/AddText.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="119" x="1422" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="LoginPage" project="Facebook GUI" file="/Facebook GUI/src/LoginPage.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="128" x="1581" y="104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="19">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="20" name="posts"/>      
+      <multiplicity id="21" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="23" name="userList"/>      
+      <multiplicity id="24" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="26" name="signinUser"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="28">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
